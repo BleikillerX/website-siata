@@ -1,0 +1,41 @@
+*{ 
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+header{
+    display: flex;
+    flex-direction: row;
+}
+.logosiata-header {
+    width: 100%;
+    height: 500%;
+    background-color: #0A6F7C;
+    padding: 20px 35px; 
+    display: flex;
+    justify-content: space-between;
+    
+}
+.logosiata2-header {
+    /* float: right;  */
+    width: 108.59px;
+    
+}
+h1{
+    color: white ;
+}   
+.socialimg-header{
+    border: 1px solid black;
+    color: #94CDD6;
+}
+.logo_siata_soluna{
+    /* width: 174.77px; */
+    width: 20%;
+
+}
+.logo_siata_visitanos{
+    width: 20%;
+    position: absolute;
+    left: -9px;
+    top: 77px;
+}
